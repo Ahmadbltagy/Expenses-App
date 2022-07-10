@@ -1,0 +1,15 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expenses-list__fallback {
+  color: #fff;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 23px;
+  background-color: #4dabf7;
+  padding: 12px;
+  border-radius: 10px;
+}
